@@ -1,0 +1,14 @@
+Total Extra Feature: 23
+Total Buttons : 38
+Hight Calculation Digit:50
+
++------------------------------
+Full Stop Customization, 
+History Track
+Zero Divition Error
+Imaginay Track
+Window Icon
+Binary-Decimal -><-
+Hex-Decimal -><-
+Oct-Decimal -><-
+Scientific Calculation = Sin, Tan, Cot, log1`
