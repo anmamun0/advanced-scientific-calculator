@@ -57,7 +57,7 @@ Here are some key pages of the application:
  
 | **Profile Page**               | **Transaction History Page**             | 
 |------------------------------|---------------------------------| 
-| ![Home Page](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-1.png) | ![User Dashboard](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-1.png) |
+| ![Home Page](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-3.png) | ![User Dashboard](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-4.png) |
 
 
 --- 
