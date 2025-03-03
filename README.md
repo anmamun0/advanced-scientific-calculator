@@ -45,9 +45,24 @@ To set up the Scientific Calculator, follow these steps:
 - **Total Buttons:** 37  
 - **Lines of Code:** Approximately 300-400  
 - **Development Duration:** 1 Hour  
+ 
+## 📸 Screenshots  
 
-## Screenshot
-*(Include a screenshot of your calculator here)*
+Here are some key pages of the application:  
+
+| **Book details Page**               | **Books Page**             | 
+|------------------------------|---------------------------------| 
+| ![Home Page](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-1.png) | ![User Dashboard](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-2.png) |
+
+ 
+| **Profile Page**               | **Transaction History Page**             | 
+|------------------------------|---------------------------------| 
+| ![Home Page](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-1.png) | ![User Dashboard](https://github.com/anmamun0/advanced-scientific-calculator/blob/main/src/scientific_calculator-1.png) |
+
+
+--- 
+
+
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
